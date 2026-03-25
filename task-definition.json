@@ -17,6 +17,7 @@
         "awslogs-region": "ap-south-1",
         "awslogs-stream-prefix": "ecs"
       }
-    }
+    },
+    "essential": true
   }]
 }
